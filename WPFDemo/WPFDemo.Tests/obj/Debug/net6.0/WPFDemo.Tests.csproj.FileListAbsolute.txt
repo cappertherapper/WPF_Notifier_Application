@@ -1,0 +1,5 @@
+C:\Users\Dorph\source\repos\WPFDemo\WPFDemo.Tests\obj\Debug\net6.0\WPFDemo.Tests.csproj.AssemblyReference.cache
+C:\Users\Dorph\source\repos\WPFDemo\WPFDemo.Tests\obj\Debug\net6.0\WPFDemo.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dorph\source\repos\WPFDemo\WPFDemo.Tests\obj\Debug\net6.0\WPFDemo.Tests.AssemblyInfoInputs.cache
+C:\Users\Dorph\source\repos\WPFDemo\WPFDemo.Tests\obj\Debug\net6.0\WPFDemo.Tests.AssemblyInfo.cs
+C:\Users\Dorph\source\repos\WPFDemo\WPFDemo.Tests\obj\Debug\net6.0\WPFDemo.Tests.csproj.CoreCompileInputs.cache
